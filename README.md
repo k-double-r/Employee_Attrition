@@ -1,0 +1,1 @@
+Employee attrition prediction is the process of using data and analytical techniques to forecast which employees are likely to leave an organization. It's a proactive approach to a critical HR challenge, aiming to identify at-risk employees before they resign, allowing companies to implement targeted retention strategies.
